@@ -24,12 +24,18 @@
 
 ### Hardware Components
 
-| Component | Description | Photo |
-|-----------|-------------|-------|
-| **STM32H743VIT6** | Main MCU — ARM Cortex-M7, 480 MHz, on DevEBox board | ![STM32H743VIT6](photos/STM32H743VIT6.jpg) |
-| **ICM-42688P** | 6-axis IMU (Accelerometer + Gyroscope) via SPI | ![ICM42688](photos/icm42688.jpg) |
-| **GPS M10** | GNSS Module (u-blox M10) for position hold & navigation | ![GPS M10](photos/gps_m10.jpg) |
-| **MTF-01P** | Optical Flow + ToF distance sensor for indoor positioning | ![MTF-01P](photos/mtf01p.jpg) |
+<p align="center">
+  <img src="photos/STM32H743VIT6.jpg" alt="STM32H743VIT6" width="180"/>
+  &nbsp;
+  <img src="photos/icm42688.jpg" alt="ICM-42688P" width="180"/>
+  &nbsp;
+  <img src="photos/gps_m10.jpg" alt="GPS M10" width="180"/>
+  &nbsp;
+  <img src="photos/mtf01p.jpg" alt="MTF-01P" width="180"/>
+</p>
+<p align="center">
+  <sub>STM32H743VIT6 &nbsp;|&nbsp; ICM-42688P &nbsp;|&nbsp; GPS M10 &nbsp;|&nbsp; MTF-01P</sub>
+</p>
 
 ---
 
@@ -144,6 +150,7 @@ drone/
 ## 📄 License
 
 This project is for educational purposes at **UET — VNU Hanoi**.  
+Built by **Truong Hong Tan**.  
 Feel free to use and adapt with attribution.
 
 ---
@@ -151,5 +158,5 @@ Feel free to use and adapt with attribution.
 <p align="center">
   <img src="spider_logo_svg/spider_logo.svg" alt="Spider Logo" width="80"/>
   <br/>
-  <sub>SPIDER_H7_FC — Built at UET, VNU Hanoi</sub>
+  <sub>SPIDER_H7_FC — Built by <strong>Truong Hong Tan</strong> @ UET, VNU Hanoi</sub>
 </p>
