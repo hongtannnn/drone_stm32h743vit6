@@ -9,7 +9,7 @@
 ### Assembled Drone
 
 <p align="center">
-  <img src="photos/drone.jpg" alt="Assembled Quadcopter" width="600"/>
+  <img src="photos/drone2.jpg" alt="Assembled Quadcopter" width="600"/>
 </p>
 
 ---
@@ -19,6 +19,12 @@
 | Top View | Bottom View |
 |:---:|:---:|
 | ![PCB Top](photos/top.jpg) | ![PCB Bottom](photos/bottom.jpg) |
+
+### FC Installed on Drone
+
+<p align="center">
+  <img src="photos/board.jpg" alt="Flight Controller installed on drone" width="600"/>
+</p>
 
 ---
 
